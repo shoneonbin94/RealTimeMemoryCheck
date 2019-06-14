@@ -1,0 +1,14 @@
+﻿  RealTimeMemoryProgramDlg.cpp
+d:\00_보랏빛작업장\92_mfc\realtimememoryprogram\realtimememoryprogramdlg.cpp(146): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\00_보랏빛작업장\92_mfc\realtimememoryprogram\realtimememoryprogramdlg.cpp(307): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\00_보랏빛작업장\92_mfc\realtimememoryprogram\realtimememoryprogramdlg.cpp(333): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+d:\00_보랏빛작업장\92_mfc\realtimememoryprogram\realtimememoryprogramdlg.cpp(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  RealTimeMemoryProgram.cpp
+  RealTimeMemoryProgram.vcxproj -> D:\00_보랏빛작업장\92_MFC\RealTimeMemoryProgram\Debug\RealTimeMemoryProgram.exe
+  RealTimeMemoryProgram.vcxproj -> D:\00_보랏빛작업장\92_MFC\RealTimeMemoryProgram\Debug\RealTimeMemoryProgram.pdb (Full PDB)
